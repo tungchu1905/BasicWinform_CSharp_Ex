@@ -1,0 +1,9 @@
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\bin\Debug\AddName.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\bin\Debug\AddName.pdb
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.Form1.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.Properties.Resources.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\AddName\obj\Debug\AddName.pdb

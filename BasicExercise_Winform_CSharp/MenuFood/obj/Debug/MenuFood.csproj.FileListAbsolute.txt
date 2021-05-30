@@ -1,0 +1,9 @@
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\bin\Debug\MenuFood.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\bin\Debug\MenuFood.pdb
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.Form1.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.Properties.Resources.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\MenuFood\obj\Debug\MenuFood.pdb

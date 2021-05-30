@@ -1,0 +1,9 @@
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\bin\Debug\DentalPayment.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\bin\Debug\DentalPayment.pdb
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.csprojAssemblyReference.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.Form1.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.Properties.Resources.resources
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.csproj.GenerateResource.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.exe
+D:\C_Sharp_Winform\EXERCISE\BasicExercise_Winform_CSharp\DentalPayment\obj\Debug\DentalPayment.pdb

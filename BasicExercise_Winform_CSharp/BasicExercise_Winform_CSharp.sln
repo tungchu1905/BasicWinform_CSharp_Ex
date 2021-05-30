@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DentalPayment", "DentalPayment\DentalPayment.csproj", "{3C5B8ABE-4165-4BBD-A209-F5E15D1DC718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddName", "AddName\AddName.csproj", "{2DB5159A-55BE-40B9-8025-7535B3797006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuFood", "MenuFood\MenuFood.csproj", "{DC93D4C1-FAA6-4A29-8E79-7F32F0756ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5B8ABE-4165-4BBD-A209-F5E15D1DC718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5B8ABE-4165-4BBD-A209-F5E15D1DC718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5B8ABE-4165-4BBD-A209-F5E15D1DC718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5B8ABE-4165-4BBD-A209-F5E15D1DC718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DB5159A-55BE-40B9-8025-7535B3797006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB5159A-55BE-40B9-8025-7535B3797006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB5159A-55BE-40B9-8025-7535B3797006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB5159A-55BE-40B9-8025-7535B3797006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC93D4C1-FAA6-4A29-8E79-7F32F0756ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC93D4C1-FAA6-4A29-8E79-7F32F0756ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC93D4C1-FAA6-4A29-8E79-7F32F0756ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC93D4C1-FAA6-4A29-8E79-7F32F0756ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8CFE11-17CB-4C61-B531-9552A69336A0}
+	EndGlobalSection
+EndGlobal
